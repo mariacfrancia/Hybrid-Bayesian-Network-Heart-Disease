@@ -1,6 +1,5 @@
 
 # CodigoFinal.py — Hybrid Bayesian Networks for Cardiovascular Diagnosis
-Python implementation of expert-informed and data-driven hybrid Bayesian networks for heart disease diagnosis using the Cleveland Heart Disease Dataset.
 
 **Author:** María Cañas Francia | UCM Mathematics Engineering BSc Thesis, 2025/2026
 
